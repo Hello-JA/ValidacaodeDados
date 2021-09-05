@@ -9,6 +9,7 @@ function validateFormulario () {
     } else {
         feedback.innerHTML = "Tente novamente"
     }  
+   
 }
 
 
